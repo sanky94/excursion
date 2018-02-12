@@ -1,32 +1,28 @@
-body{
-  text-align: center;
-  background-color: black;
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
-.header,h1 {
-  font-family: Verdana;
-  font-weight: normal;
-  font-size: 50px;
-  color: white;
-  text-align: center;
+
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
 }
-.header,a{
-  color: Aquamarine;
-  font-size: 16px;
-  font-family: Verdana;
+
+h1 {
+    font-size: 50px;
 }
-.main,h1{
-  font-family: Verdana;
-  font-weight: 300;
-  font-size: 42px;
+
+h2 {
+    font-size: 42px;
 }
-.main,h3{
-  font-family: Verdana;
-  font-size: 21px;
-  color: gray;
+
+p {
+    color: Gray;
+    font-size: 21px;
 }
-p{
-  text-align: right;
-  color: gray;
-  font-family: Verdana;
-  font-size: 20px;
-}
+
+.footer {
+    text-align: right;
+} 
